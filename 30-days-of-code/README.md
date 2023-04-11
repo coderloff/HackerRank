@@ -12,3 +12,4 @@
 |8|<a href="https://github.com/coderloff/HackerRank/blob/main/30-days-of-code/day-7-arrays.cpp">Day 7: Arrays</a>|C++|
 |9|<a href="https://github.com/coderloff/HackerRank/blob/main/30-days-of-code/day-8-dictionaries-and-maps.cpp">Day 8: Dictionaries and Maps</a>|C++|
 |10|<a href="https://github.com/coderloff/HackerRank/blob/main/30-days-of-code/day-9-recursion-3.cpp">Day 9: Recursion 3</a>|C++|
+|10|<a href="https://github.com/coderloff/HackerRank/blob/main/30-days-of-code/day-10-binary-numbers.cpp">Day 10: Binary Numbers</a>|C++|
